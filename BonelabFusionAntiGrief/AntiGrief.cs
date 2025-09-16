@@ -1,22 +1,9 @@
 ﻿using HarmonyLib;
-using LabFusion;
 using LabFusion.Entities;
 using LabFusion.Network;
-using LabFusion.Network.Serialization;
 using LabFusion.Player;
 using MelonLoader;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
-using UnityEngine;
-using static Il2Cpp.Interop;
-
-
-
-
 
 namespace BonelabFusionAntiGrief 
 {
@@ -37,19 +24,25 @@ namespace BonelabFusionAntiGrief
             [HarmonyPrefix]
             public static void Prefix(ReceivedMessage received)
             {
+                string message = "Dummy Text";
                 try
                 {
                     var data = received.ReadData<ConnectionRequestData>();
-                    MelonLogger.Msg($"[AntiGrief] Incoming connection attempt: PlatformID={data.PlatformID}, Version={data.Version}");
-
+                    message = $"[AntiGrief] Incoming connection attempt: PlatformID={data.PlatformID}, Version={data.Version}";
+                    var playerId = PlayerIDManager.GetPlayerID(received.Sender.Value);
+                    if (playerId != null) {
+                        var metadata = playerId.Metadata;
+                        message += $"Username={metadata.Username}, Nickname={metadata.Nickname}, Description={metadata.Description}";
+                    }
+                    MelonLogger.Msg(message);
                 }
                 catch (Exception ex)
                 {
-                    MelonLogger.Warning($"[AntiGrief] Failed to log connection attempt: {ex}");
+                    message = $"[AntiGrief] Failed to log connection attempt: {ex}";
+                    MelonLogger.Warning(message, ex);
                 }
             }
         }
-
 
     }
 
