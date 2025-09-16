@@ -10,7 +10,8 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BonelabFusionAntiGrief||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1012ED7D-04F1-40C3-BB1F-AFB3F5D0C852}|BonelabFusionAntiGrief\\BonelabFusionAntiGrief.csproj|c:\\users\\pietr\\source\\repos\\antigrieflab\\bonelabfusionantigrief\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{1012ED7D-04F1-40C3-BB1F-AFB3F5D0C852}|BonelabFusionAntiGrief\\BonelabFusionAntiGrief.csproj|C:\\Users\\pietr\\source\\repos\\AntiGriefLab\\bonelabfusionantigrief\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1012ED7D-04F1-40C3-BB1F-AFB3F5D0C852}|BonelabFusionAntiGrief\\BonelabFusionAntiGrief.csproj|solutionrelative:bonelabfusionantigrief\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,15 +29,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\source\\repos\\AntiGriefLab\\BonelabFusionAntiGrief\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BonelabFusionAntiGrief\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\pietr\\source\\repos\\AntiGriefLab\\BonelabFusionAntiGrief\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "BonelabFusionAntiGrief\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:25:21.41Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BonelabFusionAntiGrief",
-              "DocumentMoniker": "C:\\Users\\pietr\\Source\\Repos\\AntiGriefLab\\BonelabFusionAntiGrief\\BonelabFusionAntiGrief.csproj",
+              "DocumentMoniker": "C:\\Users\\pietr\\source\\repos\\AntiGriefLab\\BonelabFusionAntiGrief\\BonelabFusionAntiGrief.csproj",
               "RelativeDocumentMoniker": "BonelabFusionAntiGrief\\BonelabFusionAntiGrief.csproj",
-              "ToolTip": "C:\\Users\\pietr\\Source\\Repos\\AntiGriefLab\\BonelabFusionAntiGrief\\BonelabFusionAntiGrief.csproj",
+              "ToolTip": "C:\\Users\\pietr\\source\\repos\\AntiGriefLab\\BonelabFusionAntiGrief\\BonelabFusionAntiGrief.csproj",
               "RelativeToolTip": "BonelabFusionAntiGrief\\BonelabFusionAntiGrief.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-16T14:03:25.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T14:03:25.669Z"
             },
             {
               "$type": "Document",
@@ -46,14 +58,10 @@
               "RelativeDocumentMoniker": "BonelabFusionAntiGrief\\AntiGrief.cs",
               "ToolTip": "C:\\Users\\pietr\\source\\repos\\AntiGriefLab\\BonelabFusionAntiGrief\\AntiGrief.cs",
               "RelativeToolTip": "BonelabFusionAntiGrief\\AntiGrief.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T13:39:54.065Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

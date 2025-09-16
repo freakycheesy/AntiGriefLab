@@ -196,7 +196,6 @@ C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\UnityE
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\MonoMod.Utils.dll
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\MonoMod.RuntimeDetour.dll
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\bHapticsLib.dll
-C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\AssetRipper.Primitives.dll
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\Tomlet.dll
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\AssetsTools.NET.dll
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\AsmResolver.DotNet.dll
@@ -239,6 +238,18 @@ C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\Il2Cpp
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\Il2CppSystem.ServiceModel.Internals.dll
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\Il2CppMicrosoft.Extensions.Primitives.dll
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\MonoMod.ILHelpers.dll
-C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\MelonLoader.pdb
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\MelonLoader.xml
 C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\obj\Debug\BonelabF.36C8F7B3.Up2Date
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\0Harmony.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\Assembly-CSharp.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\Il2CppInterop.Runtime.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\LabFusion.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\MelonLoader.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\Unity.InputSystem.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\UnityEngine.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\Il2CppFacepunch.Steamworks.Win64.dll
+C:\Users\pietr\Source\Repos\AntiGriefLab\BonelabFusionAntiGrief\bin\Debug\AssetRipper.VersionUtilities.dll
